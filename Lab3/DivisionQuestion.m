@@ -1,13 +1,13 @@
 //
-//  DivideQuestion.m
+//  DivisionQuestion.m
 //  Lab3
 //
 //  Created by Uji Saori on 2021-02-28.
 //
 
-#import "DivideQuestion.h"
+#import "DivisionQuestion.h"
 
-@implementation DivideQuestion
+@implementation DivisionQuestion
 
 - (instancetype) init
 {

@@ -1,5 +1,5 @@
 //
-//  DivideQuestion.h
+//  DivisionQuestion.h
 //  Lab3
 //
 //  Created by Uji Saori on 2021-02-28.
@@ -9,7 +9,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface DivideQuestion : Question
+@interface DivisionQuestion : Question
 
 @end
 
